@@ -1,4 +1,6 @@
-package Parte02;
+package Parte02.relogio;
+
+import Parte02.relogio.Relogio;
 
 public class TesteRelogio {
     public static void main(String[] args) {

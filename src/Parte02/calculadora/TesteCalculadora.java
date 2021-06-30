@@ -1,4 +1,6 @@
-package Parte02;
+package Parte02.calculadora;
+
+import Parte02.calculadora.Calculadora;
 
 public class TesteCalculadora {
     public static void main(String[] args) {

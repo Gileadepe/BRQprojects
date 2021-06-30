@@ -1,4 +1,6 @@
-package Parte02;
+package Parte02.contacorrente;
+
+import Parte02.contacorrente.ContaCorrente;
 
 public class TesteContaCorrente {
     public static void main(String[] args) {

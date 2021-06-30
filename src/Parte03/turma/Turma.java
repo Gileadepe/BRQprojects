@@ -1,4 +1,4 @@
-package Parte03;
+package Parte03.turma;
 
 public class Turma {
     private int idTurma;

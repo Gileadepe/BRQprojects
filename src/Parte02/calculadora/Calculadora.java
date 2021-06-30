@@ -1,4 +1,4 @@
-package Parte02;
+package Parte02.calculadora;
 
 public class Calculadora {
     private double memoria =  0;

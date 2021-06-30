@@ -1,4 +1,4 @@
-package Parte02;
+package Parte02.tringuloCirculo;
 
 public class Circulo {
     private double raio;

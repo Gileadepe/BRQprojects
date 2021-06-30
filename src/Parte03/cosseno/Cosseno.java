@@ -1,4 +1,4 @@
-package Parte03;
+package Parte03.cosseno;
 
 public class Cosseno {
     private double x;

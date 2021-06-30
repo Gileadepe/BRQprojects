@@ -1,4 +1,6 @@
-package Parte02;
+package Parte02.aluno;
+
+import Parte02.aluno.AlunoDisciplina;
 
 public class TesteAlunoDisciplina {
     public static void main(String[] args) {

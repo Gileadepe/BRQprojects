@@ -1,4 +1,4 @@
-package Parte02;
+package Parte02.tringuloCirculo;
 
 public class Triangulo {
     private double base;

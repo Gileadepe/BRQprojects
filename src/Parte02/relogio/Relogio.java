@@ -1,4 +1,4 @@
-package Parte02;
+package Parte02.relogio;
 
 public class Relogio {
     private int hora;

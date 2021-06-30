@@ -1,4 +1,6 @@
-package Parte03;
+package Parte03.estatistica;
+
+import Parte03.estatistica.Estatistica;
 
 import java.util.Scanner;
 

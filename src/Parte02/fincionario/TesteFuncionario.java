@@ -1,4 +1,6 @@
-package Parte02;
+package Parte02.fincionario;
+
+import Parte02.fincionario.Funcionario;
 
 public class TesteFuncionario {
     public static void main(String[] args) {

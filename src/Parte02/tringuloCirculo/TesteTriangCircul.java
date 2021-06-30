@@ -1,4 +1,7 @@
-package Parte02;
+package Parte02.tringuloCirculo;
+
+import Parte02.tringuloCirculo.Circulo;
+import Parte02.tringuloCirculo.Triangulo;
 
 public class TesteTriangCircul {
     public static void main(String[] args) {

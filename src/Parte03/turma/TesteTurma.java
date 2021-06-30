@@ -1,4 +1,4 @@
-package Parte03;
+package Parte03.turma;
 
 import java.util.Scanner;
 

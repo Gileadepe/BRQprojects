@@ -1,4 +1,6 @@
-package Parte03;
+package Parte03.pesquisa;
+
+import Parte03.pesquisa.Pesquisa;
 
 import java.util.Date;
 import java.util.Random;
@@ -15,7 +17,7 @@ public class TestePesquisa {
         int qtdPessoas = Integer.parseInt(ze.nextLine());
         System.out.print("1(Automática)/2(Manual).: ");
         int tipo = Integer.parseInt(ze.nextLine());
-        Pesquisa [] p = new Pesquisa[qtdPessoas];
+        Pesquisa[] p = new Pesquisa[qtdPessoas];
         fazPesquisa(p,tipo);
         imprimeResultado(p);
         System.out.println("Fim da Pesquisa");

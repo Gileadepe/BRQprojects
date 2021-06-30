@@ -1,4 +1,4 @@
-package Parte02;
+package Parte02.fincionario;
 
 public class Funcionario {
     private int codFunc;

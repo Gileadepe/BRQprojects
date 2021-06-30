@@ -1,4 +1,4 @@
-package Parte02;
+package Parte02.contacorrente;
 
 public class ContaCorrente {
     private int numCC;

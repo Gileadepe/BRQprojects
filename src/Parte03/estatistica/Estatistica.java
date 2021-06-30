@@ -1,4 +1,4 @@
-package Parte03;
+package Parte03.estatistica;
 
 public class Estatistica {
     private double [] valores;

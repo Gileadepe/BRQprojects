@@ -1,4 +1,4 @@
-package Parte03;
+package Parte03.pessoa;
 
 public class Pessoa {
     private int idPessoa;

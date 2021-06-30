@@ -1,4 +1,4 @@
-package Parte03;
+package Parte03.pesquisa;
 
 public class Pesquisa {
     private static int sequencia;
